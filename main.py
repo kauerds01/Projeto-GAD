@@ -1,6 +1,7 @@
+#Bloco de Dados da empresa
 empresa = {
     "nome": "GAD Tecnologia Agrícola",
-    "nome_fantasia": "Projeto-GAD",
+    "proprietarios":"Donos: Bruno,Kauê,Gabi."
     "cnpj": "12.345.678/0001-90",
     "setor": "Tecnologia e Agricultura",
     "atividade": "Gestão agrícola com drones",
@@ -8,12 +9,4 @@ empresa = {
     "estado": "SP",
     "ano_fundacao": 2026
 
-}
-
-#matriz 2D
-
-plantacao = {
-    ["saudável","saudável","seca","saudável"],
-    ["saudável","saudável","praga","seca"],
-    ["saudável","seca","saudável","saudável"]
 }
