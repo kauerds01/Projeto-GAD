@@ -9,3 +9,11 @@ empresa = {
     "ano_fundacao": 2026
 
 }
+
+#matriz 2D
+
+plantacao = {
+    ["saudável","saudável","seca","saudável"],
+    ["saudável","saudável","praga","seca"],
+    ["saudável","seca","saudável","saudável"]
+}
