@@ -10,3 +10,12 @@ empresa = {
     "ano_fundacao": 2026
 
 }
+
+#bloco de matriz 2d - Aluno 2
+
+plantacao ={
+    ["saudável", "saudável", "seco", "seco"],
+    ["saudável", "saudável", "seco", "saúdavel"],
+    ["saudável", "seco", "saudável", "seco"],
+    ["saudável", "saudável", "seco", "seco"]
+}
