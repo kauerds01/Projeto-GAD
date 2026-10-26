@@ -1,0 +1,9 @@
+empresa,area,insumo,quantidade,valor_unitario
+agrodrone,setor A,Fertilizante,50,12.50
+agrodrone,setor B,Sementes,30,8.00
+agrodrone,setor C,Defensivo,10,25.00
+agrodrone,setor A,Água para irrigação,100,0.15
+agrodrone,setor B,Combustível para drone,5,7.20
+agrodrone,setor C,Manutenção de drone,2,85.00
+agrodrone,setor D,Fertilizante,40,12.50
+agrodrone,setor D,Sementes,25,8.00
