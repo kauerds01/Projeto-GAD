@@ -67,3 +67,9 @@ while True:
         break
     else:
         print("Opção inválida")
+with open("arquivo.csv", "r", encoding="utf-8") as arquivo:
+    linha = arquivo.readline()
+
+    while linha:
+        print(linha, end="")
+        linha = arquivo.readline()
